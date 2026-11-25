@@ -8,7 +8,7 @@ git does on your machine: same config, credential helpers, SSH keys and hooks.
 
 ## Install
 
-Download from the [Releases page](https://github.com/VivianHodgkinson/Verdigit/releases). Linux builds are available for x64 and ARM64; the Windows build is x64 and also runs on Windows on ARM through its built-in emulation.
+Download from the [Releases page](https://github.com/Wingwright-Labs/Verdigit/releases). Linux builds are available for x64 and ARM64; the Windows build is x64 and also runs on Windows on ARM through its built-in emulation.
 
 | Platform | File | Install |
 | --- | --- | --- |
@@ -130,4 +130,4 @@ Verdigit is free and open source. If it saves you some time, you can [buy me a c
 
 ## License
 
-[MIT](LICENSE) © 2026 Vivian Hodgkinson
+[MIT](LICENSE) © 2026 Wingwright Labs

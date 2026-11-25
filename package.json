@@ -13,7 +13,7 @@
     "dist:linux": "electron-vite build && electron-builder --linux --publish never",
     "dist:win": "electron-vite build && electron-builder --win --publish never"
   },
-  "author": "Vivian Hodgkinson <vivian@issuesoftware.co.za>",
+  "author": "Wingwright Labs <iammrveee@gmail.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^26.6.2",
@@ -45,7 +45,7 @@
     },
     "publish": {
       "provider": "github",
-      "owner": "VivianHodgkinson",
+      "owner": "Wingwright-Labs",
       "repo": "Verdigit",
       "releaseType": "draft"
     },
@@ -83,8 +83,8 @@
       "category": "Development",
       "synopsis": "Git client with Git Flow built in",
       "description": "A dark & green desktop Git client with a commit graph, line staging, conflict resolution, interactive rebase and native Git Flow.",
-      "maintainer": "Vivian Hodgkinson <vivian@issuesoftware.co.za>",
-      "vendor": "Issue Software",
+      "maintainer": "Wingwright Labs <iammrveee@gmail.com>",
+      "vendor": "Wingwright Labs",
       "desktop": {
         "entry": {
           "Name": "Verdigit",
@@ -182,10 +182,10 @@
       "icon": "resources/icon.png"
     }
   },
-  "homepage": "https://github.com/VivianHodgkinson/Verdigit",
+  "homepage": "https://github.com/Wingwright-Labs/Verdigit",
   "repository": {
     "type": "git",
-    "url": "https://github.com/VivianHodgkinson/Verdigit.git"
+    "url": "https://github.com/Wingwright-Labs/Verdigit.git"
   },
   "desktopName": "sourcecontrol.desktop",
   "dependencies": {

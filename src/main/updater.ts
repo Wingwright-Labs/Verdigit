@@ -23,7 +23,7 @@ import { assetName, installCommand, type InstallKind } from './updateAsset'
  * limited to 60 requests an hour per IP and shared by everyone behind that IP.
  */
 
-const REPO = 'VivianHodgkinson/Verdigit'
+const REPO = 'Wingwright-Labs/Verdigit'
 const CHECK_EVERY_MS = 4 * 60 * 60 * 1000
 
 let status: UpdateStatus
